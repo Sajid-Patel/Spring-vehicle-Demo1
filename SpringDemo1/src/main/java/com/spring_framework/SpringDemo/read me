@@ -1,0 +1,3 @@
+Dependency injection through  Spring.XML file i.e bean
+
+<bean id="vehicle" class="com.spring_framework.SpringDemo.Car"></bean>
